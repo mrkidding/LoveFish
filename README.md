@@ -8,4 +8,4 @@ You can collect the fruits. Yellow fruits value 200 points. Blue fruits will dou
 
 More importantly, you must feed your baby fish from time to time. Overwise your baby fish would starve.
 
-Please visit: http//lovefish/ziruiapp.com to play the game.
+Please visit: lovefish(http//lovefish/ziruiapp.com) to play the game.
